@@ -2,10 +2,10 @@
 tags:
   - literature/excerpt
 type: Excerpt
-aliases: 
-reference: 
-page: 
-order: 
-keywords: 
+aliases:
+reference:
+page:
+order:
+keywords:
 collections:
 ---
