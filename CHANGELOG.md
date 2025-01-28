@@ -2,6 +2,12 @@
 The format is **based** on [Keep a Changelog] and follow a [Semantic Versioning] schema.
 
 ## [Unreleased]
+- Added templates about:
+  - **Callouts**: Example
+  - **Flashcards**: Inline and Multiline
+  - **Catalogs**: Classifier, Institution, Keyword, and Subject
+  - **YouTube references**: Channels, Playlists, and Videos
+- Added some information about plugins to `README.md`
 
 ## [1.0.0] - 2025-01-23
 - Added the initial set of references. The included templates support the creation of notes about:
