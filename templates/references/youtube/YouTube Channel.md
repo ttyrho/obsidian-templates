@@ -13,27 +13,27 @@ collections:
 ## Playlists
 ```dataview
 TABLE WITHOUT ID
-	link(file.path, aliases[0]) AS Title,
-	keywords AS Keywords
+    link(file.path, aliases[0]) AS Title,
+    keywords AS Keywords
 FROM
-	#reference/youtube/playlist
+    #reference/youtube/playlist
 WHERE
-	channel = [[<%tp.file.title%>]]
+    channel = [[<%tp.file.title%>]]
 ```
 
 ## Videos
 ```dataview
 TABLE WITHOUT ID
-	link(file.path, aliases[0]) AS Title,
-	playlist AS Playlist,
-	authors AS Speakers,
-	date AS Date,
-	languages AS Languages,
-	keywords AS Keywords
+    link(file.path, aliases[0]) AS Title,
+    playlist AS Playlist,
+    authors AS Speakers,
+    date AS Date,
+    languages AS Languages,
+    keywords AS Keywords
 FROM
-	#reference/youtube/video
+    #reference/youtube/video
 WHERE
-	channel = [[<%tp.file.title%>]]
+    channel = [[<%tp.file.title%>]]
 SORT
-	date DESCENDING
+    date DESCENDING
 ```

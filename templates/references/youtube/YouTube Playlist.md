@@ -14,17 +14,17 @@ collections:
 ## Videos
 ```dataview
 TABLE WITHOUT ID
-	order AS Order,
-	link(file.path, aliases[0]) AS Title,
-	authors AS Speakers,
-	channel AS Channel,
-	date AS Date,
-	languages AS Languages,
-	keywords AS Keywords
+    order AS Order,
+    link(file.path, aliases[0]) AS Title,
+    authors AS Speakers,
+    channel AS Channel,
+    date AS Date,
+    languages AS Languages,
+    keywords AS Keywords
 FROM
-	#reference/youtube/video
+    #reference/youtube/video
 WHERE
-	playlist = [[<%tp.file.title%>]]
+    playlist = [[<%tp.file.title%>]]
 SORT
-	order ASCENDING
+    order ASCENDING
 ```
