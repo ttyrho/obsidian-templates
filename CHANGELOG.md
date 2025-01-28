@@ -1,7 +1,8 @@
 # Changes on `obsidian-templates`
-The format is **based** on [Keep a Changelog] and follow a [Semantic Versioning] schema.
 
 ## [Unreleased]
+
+## [1.1.0] - 2025-01-28
 - Added templates about:
   - **Callouts**: Example
   - **Flashcards**: Inline and Multiline
@@ -22,7 +23,8 @@ The format is **based** on [Keep a Changelog] and follow a [Semantic Versioning]
   - **Monographs**, and
   - **Wikipedia articles** (in English and in Spanish)
 
-[unreleased]: https://github.com/ttyrho/obsidian-templates/compare/1.0.0...HEAD
+[unreleased]: https://github.com/ttyrho/obsidian-templates/compare/1.1.0...HEAD
+[1.1.0]: https://github.com/ttyrho/obsidian-templates/releases/tag/1.1.0
 [1.0.0]: https://github.com/ttyrho/obsidian-templates/releases/tag/1.0.0
 
 ---
