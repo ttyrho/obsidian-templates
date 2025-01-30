@@ -2,7 +2,7 @@
 
 ## [Unreleased]
 - Added templates about:
-  - **Papers*: Conference Papers and Journal Articles
+  - **Papers*: Conference Papers, Journal Articles, and Preprints
 
 ## [1.1.0] - 2025-01-28
 - Added templates about:
