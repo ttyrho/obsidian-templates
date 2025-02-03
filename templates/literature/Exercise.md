@@ -13,5 +13,5 @@ collections:
 
 statement
 :multiline-flashcard:
-solution
+#review
 :flashcard-end:
