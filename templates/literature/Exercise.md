@@ -12,6 +12,6 @@ collections:
 ---
 
 statement
-:multiline-flashcard
+:multiline-flashcard:
 solution
 :flashcard-end:
