@@ -30,7 +30,7 @@ TABLE WITHOUT ID
 FROM
     #reference
 WHERE
-    contains(keyword, [[<%tp.file.title%>]])
+    contains(keywords, [[<%tp.file.title%>]])
 SORT
     date DESCENDING
 ```
