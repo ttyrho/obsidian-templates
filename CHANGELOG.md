@@ -2,8 +2,11 @@
 
 ## [Unreleased]
 - Added templates about:
-  - **Catelogs**: Journals and Conferences
+  - **Catalogs**: Journals, Conferences, and People
+  - **Knowledge**: Vocbulary
   - **Papers**: Conference Papers, Journal Articles, and Preprints
+- Corrected the exercise template
+- Corrected the keyword template
 
 ## [1.1.0] - 2025-01-28
 - Added templates about:
