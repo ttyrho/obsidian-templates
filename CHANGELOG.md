@@ -2,6 +2,7 @@
 
 ## [Unreleased]
 - Added templates about:
+  - **Callouts**: Corary, Definition, Lemma, Proposition, and Theorem
   - **Catalogs**: Journals, Conferences, and People
   - **Knowledge**: Vocbulary
   - **Papers**: Conference Papers, Journal Articles, and Preprints

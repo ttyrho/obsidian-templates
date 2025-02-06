@@ -1,0 +1,5 @@
+>[!proposition] Title
+>Content
+
+## Demonstration
+...
