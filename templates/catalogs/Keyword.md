@@ -61,3 +61,14 @@ FROM
 WHERE
     contains(keywords, [[<%tp.file.title%>]])
 ```
+
+## Projects
+```dataview
+TABLE WITHOUT ID
+    file.link AS Title,
+    keywords AS Keywords
+FROM
+    #catalog/project
+WHERE
+    contains(keywords, [[<%tp.file.title%>]])
+```

@@ -8,6 +8,8 @@
   - **Papers**: Conference Papers, Journal Articles, and Preprints
 - Corrected the exercise template
 - Corrected the keyword template
+- Added a section to include all the projects related to a given keyword
+
 
 ## [1.1.0] - 2025-01-28
 - Added templates about:
