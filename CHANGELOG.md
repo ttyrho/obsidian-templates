@@ -1,6 +1,9 @@
 # Changes on `obsidian-templates`
 
 ## [Unreleased]
+
+
+## [1.2.0] - 2025-02-11
 - Added templates about:
   - **Callouts**: Corary, Definition, Lemma, Proposition, and Theorem
   - **Catalogs**: Journals, Conferences, People, and Projects
@@ -32,12 +35,7 @@
   - **Monographs**, and
   - **Wikipedia articles** (in English and in Spanish)
 
-[unreleased]: https://github.com/ttyrho/obsidian-templates/compare/1.1.0...HEAD
+[unreleased]: https://github.com/ttyrho/obsidian-templates/compare/1.2.0...HEAD
+[1.2.0]: https://github.com/ttyrho/obsidian-templates/releases/tag/1.2.0
 [1.1.0]: https://github.com/ttyrho/obsidian-templates/releases/tag/1.1.0
 [1.0.0]: https://github.com/ttyrho/obsidian-templates/releases/tag/1.0.0
-
----
-
-The format of this Changelog is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
-
-Versioning follows a [Semantic Versioning](https://semver.org/spec/v2.0.0.html) schema.
