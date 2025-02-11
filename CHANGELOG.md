@@ -3,7 +3,7 @@
 ## [Unreleased]
 - Added templates about:
   - **Callouts**: Corary, Definition, Lemma, Proposition, and Theorem
-  - **Catalogs**: Journals, Conferences, and People
+  - **Catalogs**: Journals, Conferences, People, and Projects
   - **Knowledge**: Vocbulary
   - **Papers**: Conference Papers, Journal Articles, and Preprints
 - Corrected the exercise template
