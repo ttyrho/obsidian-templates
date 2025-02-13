@@ -2,12 +2,13 @@
 
 
 ## [Unreleased]
+- Added a template for generic collections
 
 
 ## [1.2.0] - 2025-02-11
 - Added templates about:
   - **Callouts**: Corary, Definition, Lemma, Proposition, and Theorem
-  - **Catalogs**: Journals, Conferences, People, Projects, and a Generic collection
+  - **Catalogs**: Journals, Conferences, People, and Projects
   - **Knowledge**: Vocbulary
   - **Papers**: Conference Papers, Journal Articles, and Preprints
 - Corrected the exercise template
