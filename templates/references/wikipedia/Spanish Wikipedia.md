@@ -10,7 +10,7 @@ classifiers:
 collections:
 ---
 
-# [Title](https://es.wikipedia.org/w/index.php?title=Producto_tensorial<%tp.file.title%>&oldid=)
+# [Title](https://es.wikipedia.org/w/index.php?title=<%tp.file.title%>&oldid=)
 
 ## Content
 ```dataview
