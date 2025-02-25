@@ -3,6 +3,7 @@
 
 ## [Unreleased]
 - Added a template for generic collections
+- Modified the URL of the references to Wikipedia articles to include a reference to a concrete article version
 
 
 ## [1.2.0] - 2025-02-11

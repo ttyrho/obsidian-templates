@@ -10,7 +10,7 @@ classifiers:
 collections:
 ---
 
-# [Title](https://en.wikipedia.org/wiki/<%tp.file.title%>)
+# [Title](https://en.wikipedia.org/w/index.php?title=Tensor_product<%tp.file.title%>&oldid=)
 
 ## Content
 ```dataview
