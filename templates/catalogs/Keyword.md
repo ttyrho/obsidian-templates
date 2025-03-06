@@ -51,7 +51,7 @@ WHERE
 ## Literature
 ```dataview
 TABLE WITHOUT ID
-    file.link AS Title,
+    link(file.path, file.aliases[0]) AS Title,
     type AS Type,
     reference AS Reference,
     keywords AS Keywords,
